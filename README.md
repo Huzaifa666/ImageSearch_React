@@ -1,4 +1,4 @@
-﻿Image Search
+Image Search
 
 A simple application of image search using UnsplashAPI.
 
